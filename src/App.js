@@ -3,13 +3,8 @@ import './App.css';
 
 function App() {
     return ( <div className = "App" >
-        <header className = "App-header" >
-        <img src = { logo }
-        className = "App-logo"
-        alt = "logo" / >
-        <p>
-       Ecommer Magdiel Navarrete</p>
-        </header> 
+        <h1>Ecommerce Magdiel Navarrete</h1>
+        <p>Hola</p>
         </div>
     );
 }
